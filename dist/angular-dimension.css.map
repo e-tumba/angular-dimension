@@ -1,0 +1,1 @@
+{"version":3,"sources":["angular-dimension/angular-dimension.scss","angular-dimension-input/angular-dimension-input.scss"],"names":[],"mappings":"AAAA,mBCAA,yBDCI,MAAA,KACA,OAAA","file":"angular-dimension.css","sourcesContent":[".angular-dimension {\r\n    width: 100%;\r\n    height: 100%;\r\n}",".angular-dimension-input {\r\n    width: 100%;\r\n    height: 100%;\r\n}"]}

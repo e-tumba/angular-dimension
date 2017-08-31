@@ -1,0 +1,29 @@
+{
+  "name": "angular-dimension",
+  "version": "0.0.1",
+  "authors": [
+    "e-tumba"
+  ],
+  "description": "Directive to display dimension with unit",
+  "main": [
+    "dist/angular-dimension.min.js",
+    "dist/angular-dimension.min.css"
+  ],
+  "keywords": [
+    "angular",
+    "dimension",
+    "unit"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "~1.6.4",
+    "angular-material": "~1.1.4",
+    "moment": "~2.11.1",
+    "angular-translate": "2.15.1"
+    }
+}
