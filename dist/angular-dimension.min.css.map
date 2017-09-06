@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"angular-dimension.min.css","sourcesContent":[]}
+{"version":3,"sources":["angular-dimension-input/angular-dimension-input.scss"],"names":[],"mappings":"AAAA,4CAEQ,MAAA","file":"angular-dimension.min.css","sourcesContent":[".angular-dimension-input {\r\n    md-input-container {\r\n        width: 100%;\r\n    }\r\n}"]}
